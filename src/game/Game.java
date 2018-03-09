@@ -5,6 +5,7 @@ import javax.swing.*;
 import java.applet.Applet;
 import java.applet.AudioClip;
 import java.awt.*;
+import java.awt.event.KeyListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
@@ -73,10 +74,6 @@ public class Game implements MouseListener {
         Random rand = new Random();
         Game d = new Game();
         panel.addMouseListener(d);
-
-
-        int bo1 = 380;
-        int bo2 = 100;
 
         try {
             Thread.sleep(500);
@@ -297,6 +294,7 @@ public class Game implements MouseListener {
             Game.balloon5Visible = false;
             Game.score += 20;
             Game.burstBalloon.play();
+            //hello
         }
         if (balloon6Visible&&((Game.b6<e.getX()&&e.getX()<(Game.b6+119))&&(Game.ballon6Ycord<e.getY()&&e.getY()<Game.ballon6Ycord+119))) {
             Game.balloon6Visible = false;
