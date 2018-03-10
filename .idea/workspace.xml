@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb23e6de-76bf-42dc-95d3-d1dbfc5b1d96" name="Default" comment="" />
+    <list default="true" id="bb23e6de-76bf-42dc-95d3-d1dbfc5b1d96" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/game/Game.class" afterPath="$PROJECT_DIR$/out/production/Himanshu2/game/Game.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon2.png" afterPath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon2.png" />
+      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon3.png" afterPath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon3.png" />
+      <change beforePath="$PROJECT_DIR$/src/game/Game.java" afterPath="$PROJECT_DIR$/src/game/Game.java" />
+      <change beforePath="$PROJECT_DIR$/src/resources/balloon2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/resources/balloon3.png" afterPath="$PROJECT_DIR$/src/resources/balloon3.png" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +23,7 @@
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
+            <state relative-caret-position="0">
               <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -27,18 +35,18 @@
       <file leaf-file-name="Demo3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="-2348">
               <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="850">
+              <caret line="99" column="94" lean-forward="false" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,37 +54,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bomb.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/bomb.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="balloon1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/balloon1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Animation/Demo1.java">
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/game/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="6" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="1545">
+              <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/game/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="101" column="13" lean-forward="false" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
-              <folding />
-            </state>
+      <file leaf-file-name="car3.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/car3.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -88,6 +81,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -105,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/Animation/game/Demo.java" />
         <option value="$PROJECT_DIR$/src/game/Demo.java" />
         <option value="$PROJECT_DIR$/src/game/Game.java" />
+        <option value="$PROJECT_DIR$/src/game/Car.java" />
       </list>
     </option>
   </component>
@@ -113,6 +110,7 @@
     <option name="width" value="1370" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -128,10 +126,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,13 +189,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.Car">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="game.Car" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Himanshu2" />
+      <envs />
     </configuration>
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -349,18 +366,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
       <item index="1" class="java.lang.String" itemvalue="Application.Demo3" />
       <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.Game" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Car" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Game" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo3" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Car" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Game" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +412,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36062992" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -422,16 +441,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -715,27 +724,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Animation/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="6" selection-end-column="38" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/balloon1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/bomb.png">
@@ -751,18 +745,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/9-balloon-png-image-download-heart-balloons.png" />
+    <entry file="file://$PROJECT_DIR$/src/resources/balloon2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/balloon1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Ambulance.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="99" column="94" lean-forward="false" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/car1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Car.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Audi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/car3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="-2348">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/game/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="44" lean-forward="false" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="1545">
+          <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

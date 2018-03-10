@@ -75,8 +75,6 @@ public class Game implements MouseListener {
         panel.addMouseListener(d);
 
 
-        int bo1 = 380;
-        int bo2 = 100;
 
         try {
             Thread.sleep(500);
@@ -95,7 +93,7 @@ public class Game implements MouseListener {
         try {
 
             balloonImage[0] = ImageIO.read(Demo.class.getResource("../resources/balloon1.png"));
-            balloonImage[1] = ImageIO.read(Demo.class.getResource("../resources/balloon1.png"));
+            balloonImage[1] = ImageIO.read(Demo.class.getResource("../resources/balloon2.png"));
             balloonImage[2] = ImageIO.read(Demo.class.getResource("../resources/balloon1.png"));
             balloonImage[3] = ImageIO.read(Demo.class.getResource("../resources/balloon1.png"));
             balloonImage[4] = ImageIO.read(Demo.class.getResource("../resources/balloon1.png"));
