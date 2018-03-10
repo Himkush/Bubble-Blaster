@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb23e6de-76bf-42dc-95d3-d1dbfc5b1d96" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/resources/Over.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/game/Game.class" afterPath="$PROJECT_DIR$/out/production/Himanshu2/game/Game.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon2.png" afterPath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon2.png" />
-      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon3.png" afterPath="$PROJECT_DIR$/out/production/Himanshu2/resources/balloon3.png" />
-      <change beforePath="$PROJECT_DIR$/src/game/Game.java" afterPath="$PROJECT_DIR$/src/game/Game.java" />
-      <change beforePath="$PROJECT_DIR$/src/resources/balloon2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/resources/balloon3.png" afterPath="$PROJECT_DIR$/src/resources/balloon3.png" />
+      <change beforePath="$PROJECT_DIR$/out/production/Himanshu2/game/Car.class" afterPath="$PROJECT_DIR$/out/production/Himanshu2/game/Car.class" />
+      <change beforePath="$PROJECT_DIR$/src/game/Car.java" afterPath="$PROJECT_DIR$/src/game/Car.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +20,21 @@
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+            <state relative-caret-position="-356">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="110" column="15" lean-forward="true" selection-start-line="107" selection-start-column="15" selection-end-line="110" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -35,18 +42,18 @@
       <file leaf-file-name="Demo3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2348">
+            <state relative-caret-position="-1020">
               <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/game/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="99" column="94" lean-forward="false" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="94" />
+            <state relative-caret-position="1292">
+              <caret line="245" column="27" lean-forward="true" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,22 +61,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="177" column="0" lean-forward="true" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="car3.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resources/car3.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -189,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Car">
+  <component name="RunManager" selected="Application.Game">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -375,8 +375,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Car" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Game" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Game" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Car" />
         <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
         <item index="4" class="java.lang.String" itemvalue="Application.Demo3" />
@@ -441,14 +441,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="8" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/bomb.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -737,24 +729,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="101" column="13" lean-forward="false" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/9-balloon-png-image-download-heart-balloons.png" />
     <entry file="file://$PROJECT_DIR$/src/resources/balloon2.png">
       <provider selected="true" editor-type-id="images">
@@ -771,27 +745,27 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/Car.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animation/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="99" column="94" lean-forward="false" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="94" />
+        <state relative-caret-position="-356">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Over.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/car1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Car.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resources/Audi.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -801,18 +775,41 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Audi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Animation/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2348">
+        <state relative-caret-position="-1020">
           <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="110" column="15" lean-forward="true" selection-start-line="107" selection-start-column="15" selection-end-line="110" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="153" column="0" lean-forward="true" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="177" column="0" lean-forward="true" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="245" column="27" lean-forward="true" selection-start-line="245" selection-start-column="27" selection-end-line="245" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
