@@ -34,6 +34,8 @@ public class Demo3 implements KeyListener {
 
 
 
+
+
         //p1.requestFocus(true);
         Random rand = new Random();
         p1.requestFocus();

@@ -10,6 +10,7 @@ import java.awt.event.MouseListener;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.Random;
 
 public class Game implements MouseListener {
@@ -73,9 +74,7 @@ public class Game implements MouseListener {
         Random rand = new Random();
         Game d = new Game();
         panel.addMouseListener(d);
-
-
-
+        ArrayList<BufferedImage>  li = new ArrayList<BufferedImage>();
         try {
             Thread.sleep(500);
         } catch (InterruptedException e) {

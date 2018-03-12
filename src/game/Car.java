@@ -167,9 +167,10 @@ public class Car implements KeyListener {
 
 
 
-            g.drawImage(carImage1,carXcord,carYcord,null);
             g.drawImage(carImage2,car2Xcord,Car.car2Ycord,null);
             g.drawImage(carImage3,car3Xcord,Car.car3Ycord,null);
+            g.drawImage(carImage1,carXcord,carYcord,null);
+
             if (Car.carXcord<=25 || Car.carXcord+70>=425){
                 hit.play();
                 Car.gameover =true;
