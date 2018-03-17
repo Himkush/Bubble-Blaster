@@ -28,7 +28,6 @@ public class Game implements MouseListener {
     private static AudioClip music;
 
 
-
     private static int bomb1Ycord = 1020;
     private static int bomb2Ycord = 790;
     private static boolean balloon1Visible = true;
@@ -126,6 +125,7 @@ public class Game implements MouseListener {
                 g.drawImage(boomImage,8,5,null);
                 continue;
             }
+
 
             if (Game.ballon1Ycord <= -120) {
                 if (Game.balloon1Visible){
@@ -263,6 +263,7 @@ public class Game implements MouseListener {
     }
 
     @Override
+
     public void mouseClicked(MouseEvent e) {
 
     }

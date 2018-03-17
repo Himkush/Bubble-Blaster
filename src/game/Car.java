@@ -40,7 +40,7 @@ public class Car implements KeyListener {
 
         Graphics g = panel.getGraphics();
 
-        //hello
+        //hello hoe
         BufferedImage carImage1;
         BufferedImage carImage2;
         BufferedImage carImage3;
